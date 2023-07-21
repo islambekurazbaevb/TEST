@@ -1,0 +1,5 @@
+git init
+
+git add .
+git commit -m "example name"
+git push -u origin main
